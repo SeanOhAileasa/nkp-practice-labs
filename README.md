@@ -39,6 +39,7 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 - [``pathping``](https://nbviewer.org/github/SeanOhAileasa/nkp-practice-labs/blob/main/rc/network-troubleshooting-and-tools/troubleshoot-network-connectivity-with-network-utilties/nkp-pathping.ipynb#LabTopology) <br/>
 - [``route``](https://nbviewer.org/github/SeanOhAileasa/nkp-practice-labs/blob/main/rc/network-troubleshooting-and-tools/troubleshoot-network-connectivity-with-network-utilties/nkp-route.ipynb#LabTopology) <br/>
 - [``iptables``](https://nbviewer.org/github/SeanOhAileasa/nkp-practice-labs/blob/main/rc/network-troubleshooting-and-tools/troubleshoot-network-connectivity-with-network-utilties/nkp-iptables.ipynb#LabTopology) <br/>
+- [``tcpdump``](https://nbviewer.org/github/SeanOhAileasa/nkp-practice-labs/blob/main/rc/network-troubleshooting-and-tools/troubleshoot-network-connectivity-with-network-utilties/nkp-tcpdump.ipynb#LabTopology) <br/>
 </details> <!-- END (Topic: Troubleshoot Network Connectivity with Network Utilities) -->
 <br/>
 </details> <!-- END (Path: Network Troubleshooting and Tools) -->
