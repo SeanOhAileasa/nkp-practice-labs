@@ -47,6 +47,7 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 	<summary>Troubleshoot Internet Connection and DNS Issues</summary>
 
 - [Troubleshooting Network Connectivity Issues](https://nbviewer.org/github/SeanOhAileasa/nkp-practice-labs/blob/main/rc/network-troubleshooting-and-tools/troubleshoot-internet-connection-and-dns-issues/nkp-troubleshooting-network-connectivity-issues.ipynb#LabTopology) <br/>
+- [Troubleshooting Network Connectivity - DNS Issues](https://nbviewer.org/github/SeanOhAileasa/nkp-practice-labs/blob/main/rc/network-troubleshooting-and-tools/troubleshoot-internet-connection-and-dns-issues/nkp-troubleshooting-network-connectivity-dns-issues.ipynb#LabTopology) <br/>
 </details> <!-- END (Topic: Troubleshoot Internet Connection and DNS Issues) -->
 <br/>
 </details> <!-- END (Path: Network Troubleshooting and Tools) -->
