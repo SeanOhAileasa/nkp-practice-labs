@@ -11,7 +11,7 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 ### Topic: ``Practice Labs``
 
 <details close>
-	<summary>Networking Concepts</summary>
+	<summary>Networking Concepts &#x21A9;</summary>
 <br/>
 <details close>
 	<summary>Introduction to the OSI Model</summary>
@@ -30,7 +30,17 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 <br/>
 </details> <!-- END (Path: Networking Concepts) -->
 <details close>
-	<summary>Network Troubleshooting and Tools</summary>
+	<summary>Network Security &#x21A9;</summary>
+<br/>
+<details close>
+	<summary>Common Network Vulnerabilities</summary>
+
+- [Spoofing a DNS Server](https://nbviewer.org/github/SeanOhAileasa/nkp-practice-labs/blob/main/rc/network-security/common-network-vulnerabilities/nkp-spoofing-a-dns-server.ipynb#LabTopology) <br/>
+</details> <!-- END (Topic: Common Network Vulnerabilities) -->
+<br/>
+</details> <!-- END (Path: Network Security) -->
+<details close>
+	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 <br/>
 <details close>
 	<summary>Troubleshoot Network Connectivity with Network Utilities</summary>
